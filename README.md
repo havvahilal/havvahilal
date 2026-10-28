@@ -8,4 +8,4 @@ These days I'm working on what happens when you add LLMs and AI agents to existi
 
 I also write about automation and AI on [LinkedIn](https://www.linkedin.com/in/havvahilalgencer/).
 
-**Case studies:** [Catching robot failures before users do](case-studies/robot-alerts.md)
+**Case studies:** [Catching robot failures before users do](case-studies/robot-alerts)
